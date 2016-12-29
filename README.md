@@ -27,3 +27,9 @@ Build a Star Wars Game. Game dynamically updates HTML pages with the JQuery libr
 	* Each time the opponent's character attacks the player's character's Health Points. The Attack Power does not increase.
 	* No characters can heal or recover Health Points.
 	* Player should be able to win and lose the game no matter what character they choose.
+
+### Stack Used
+	* CSS
+	* HTML
+	* Javascript
+	* JQuery
